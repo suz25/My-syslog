@@ -1,4 +1,4 @@
-# My-syslog
+# My-syslog (Python)
 A dummy syslog to fire UDP msgs or to /var/logs* | Incomplete project
 
 Execute:
